@@ -11,24 +11,15 @@
 ## 🧪 What's Actually Happening in My Lab?
 
 ### 🗄️ Hoarding Digital Memories
-Google deletes your browser history after 90 days. **I took that personally.** 
-So I engineered **[ChronosArchiver](https://github.com/kalifck/ChronosArchiver)**—a 100% offline, local-first Chrome extension that persistent-vaults 500,000+ URLs directly into IndexedDB. I custom-optimized the DOM list chronicle to run on a **60FPS virtual scroll** because lag is for the weak. *The cloud is just someone else's computer.*
+So I engineered **[ChronosArchiver](https://github.com/kalifck/ChronosArchiver)**—a 100% offline, local-first Chrome extension that persistent-vaults 500,000+ URLs directly into IndexedDB. *The cloud is just someone else's computer.*
 
 ### 🌋 Irresponsible 3D Printing
-Dragging 3D meshes with a mouse is for cowards; **I code my physical objects using OpenSCAD.** 
-Currently strapping a ridiculous **100W high-flow hotend** to a Creality K2 and tuning Klipper macros to see if I can print plastic faster than the speed of reason.
-
-### ⚡ Spicy Pillows & Magic Smoke
-When I'm not pushing code, I'm diagnosing blown SMD diodes under a microscope or **custom-welding high-amp LiFePO4 battery packs** for EV mobility projects. If I don't commit code for a few days, I probably wired a buck converter backward.
 
 ### 🌬️ Shisha & Fluid Dynamics
 Engineering custom modular anodized hardware to **eliminate shisha flavor-ghosting**. 
 *Because engineering priorities must be respected.*
 
 ### 📉 DeFi Degen Math
-Deep in the mathematical trenches calculating Uniswap V3 concentrated liquidity bands, custom arbitrage routes, and automating high-probability TradingView scripts.
-
----
 
 ## 💻 Tools of Destruction
 
@@ -48,14 +39,6 @@ Deep in the mathematical trenches calculating Uniswap V3 concentrated liquidity 
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
   <img src="https://img.shields.io/badge/Klipper_3D-FF6B6B?style=for-the-badge&logo=klipper&logoColor=white" alt="Klipper" />
   <img src="https://img.shields.io/badge/Uniswap_V3-FF007A?style=for-the-badge&logo=uniswap&logoColor=white" alt="Uniswap" />
-</p>
-
-### 🔧 Lab & Hardware Rig
-<p align="left">
-  <img src="https://img.shields.io/badge/Soldering-Tuning-D97706?style=for-the-badge&logo=solder&logoColor=white" alt="Soldering" />
-  <img src="https://img.shields.io/badge/Battery_Welding-High__Amp-10B981?style=for-the-badge&logo=battery&logoColor=white" alt="EV Welding" />
-  <img src="https://img.shields.io/badge/Multimeter-Diagnostics-3B82F6?style=for-the-badge&logo=oscilloscope&logoColor=white" alt="Multimeter" />
-  <img src="https://img.shields.io/badge/Fire_Extinguisher-Active-EF4444?style=for-the-badge&logo=fire&logoColor=white" alt="Fire Extinguisher" />
 </p>
 
 ---
